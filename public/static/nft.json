@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "/img/lands/NFT_LAND_2.png",
+    "title": "Premium LAND #1",
+    "price": "3.37",
+    "quantity": 0,
+    "type": "sand",
+    "special": "",
+    "clothing": ""
+  },
+  {
+    "id": 1,
+    "image": "/img/lands/GENESIS.png",
+    "title": "Genesis LAND #1",
+    "price": "3.37",
+    "quantity": 0,
+    "type": "sand",
+    "special": "",
+    "clothing": ""
+  }
+  
+]
