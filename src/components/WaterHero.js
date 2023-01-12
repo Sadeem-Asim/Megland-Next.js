@@ -19,7 +19,8 @@ const WaterHero = () => {
                 TheMEGLAND
               </h4>
               <p className="banner_heading">
-                For all the community who wish to join us in the adventure of TheMEGLAND, we invite you to OWN your GENESIS NFT Land.
+                For all the community who wish to join us in the adventure of
+                TheMEGLAND, we invite you to OWN your GENESIS NFT Land.
               </p>
               {/* <p className="banner_heading">
                 For all the pre sales that have already taken place, we invite
@@ -50,7 +51,7 @@ const WaterHero = () => {
                       <div className="img_holder">
                         <div
                           className="abs_img"
-                          data-bg-img="/img/lands/Genesis_land.png"
+                          data-bg-img="/img/GENESIS.png"
                           style={{}}
                         />
                         <img src="/img/1x1.jpg" alt="" />
