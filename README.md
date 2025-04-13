@@ -136,7 +136,7 @@ Contact me for any Feedback or questions
 <table>
   <tr>
     <td align="center" width="500px">
-      <a href="https://www.upwork.com/freelancers/~01c437b099d917194b" title="View my Upwork profile">
+      <a href="https://www.upwork.com/freelancers/" title="View my Upwork profile">
         <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" alt="Upwork Icon" width="60" height="60"/>
       </a>
     </td>
@@ -168,22 +168,22 @@ Contact me for any Feedback or questions
   </tr>
   <tr>
     <td align="center" width="500px">
-      <a href="https://www.upwork.com/freelancers/~01c437b099d917194b">Upwork</a>
+      <a href="https://www.upwork.com/freelancers/">Upwork</a>
     </td>
     <td align="center" width="500px">
-      <a href="https://www.fiverr.com/shahrozatiq">Fiverr</a>
+      <a href="https://www.fiverr.com/">Fiverr</a>
     </td>
     <td align="center" width="500px">
-      <a href="mailto:shahrozatiq123@gmail.com">Gmail<br>shahrozatiq123@gmail.com</a>
+      <a href="mailto:sadeemasim3803@gmail.com">Gmail<br>shahrozatiq123@gmail.com</a>
     </td>
     <td align="center" width="500px">
-      <a href="https://wa.me/923014317809">WhatsApp<br>+923014317809</a>
+      <a href="https://wa.me/923494965651">WhatsApp<br>+923014317809</a>
     </td>
     <td align="center" width="500px">
-      <a href="https://linkedin.com/in/shahroz-atiq">LinkedIn</a>
+      <a href="https://linkedin.com/in/sadeem-asim">LinkedIn</a>
     </td>
     <td align="center" width="500px">
-      <a href="https://instagram.com/shahahahahroz">Instagram</a>
+      <a href="https://instagram.com/sadeem_ch">Instagram</a>
     </td>
   </tr>
 </table>
