@@ -141,7 +141,7 @@ Contact me for any Feedback or questions
       </a>
     </td>
     <td align="center" width="500px">
-      <a href="https://www.fiverr.com/shahrozatiq" title="View my Fiverr profile">
+      <a href="https://www.fiverr.com/" title="View my Fiverr profile">
         <img src="https://ml.globenewswire.com/Resource/Download/dcc91863-eeb0-4879-a556-9f7608b19744" alt="Fiverr Icon" width="60" height="60"/>
       </a>
     </td>
@@ -151,17 +151,17 @@ Contact me for any Feedback or questions
       </a>
     </td>
     <td align="center" width="500px">
-      <a href="https://wa.me/923014317809" title="Chat with me on WhatsApp">
+      <a href="https://wa.me/923494965651" title="Chat with me on WhatsApp">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp Icon" height="60" width="60"/>
       </a>
     </td>
     <td align="center" width="500px">
-      <a href="https://linkedin.com/in/shahroz-atiq" title="Connect with me on LinkedIn">
+      <a href="https://linkedin.com/in/" title="Connect with me on LinkedIn">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Icon" height="60" width="60"/>
       </a>
     </td>
     <td align="center" width="500px">
-      <a href="https://instagram.com/shahahahahroz" title="Follow me on Instagram">
+      <a href="https://instagram.com/" title="Follow me on Instagram">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Icon" height="60" width="60"/>
       </a>
     </td>
@@ -174,10 +174,10 @@ Contact me for any Feedback or questions
       <a href="https://www.fiverr.com/">Fiverr</a>
     </td>
     <td align="center" width="500px">
-      <a href="mailto:sadeemasim3803@gmail.com">Gmail<br>shahrozatiq123@gmail.com</a>
+      <a href="mailto:sadeemasim3803@gmail.com">Gmail<br>sadeemasim1234@outlook</a>
     </td>
     <td align="center" width="500px">
-      <a href="https://wa.me/923494965651">WhatsApp<br>+923014317809</a>
+      <a href="https://wa.me/923494965651">WhatsApp<br>+923494965651</a>
     </td>
     <td align="center" width="500px">
       <a href="https://linkedin.com/in/sadeem-asim">LinkedIn</a>
